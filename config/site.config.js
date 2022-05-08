@@ -50,7 +50,7 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: '',
+      link: 'https://github.com/chzhxun/onedrive-vercel-index',
     },
     {
       name: 'Telegram',
